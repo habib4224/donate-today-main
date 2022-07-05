@@ -1,3 +1,52 @@
 body {
     font-family: 'Roboto Condensed', sans-serif;
 }
+
+.Donate-plan {
+    font-size: 50px;
+    text-align: center;
+    padding-top: 3%;
+}
+
+.donate-plan-describe {
+    text-align: center;
+    font-size: large;
+    padding-bottom: 2%;
+}
+
+.flex-div {
+    display: flex;
+    margin-right: 10%;
+    margin-left: 10%;
+}
+
+.three-box {
+    padding: 100px 30px 30px 20px;
+    margin: 2px 2px;
+    border-radius: 10px;
+    text-align: left;
+}
+
+#third-div-color {
+    background-color: rgba(226, 210, 166, 0.849);
+    background-image: url(image/icon/Frame-1.png);
+    background-repeat: no-repeat;
+    background-position-x: 10%;
+    background-position-y: 20%;
+}
+
+#second-div-color {
+    background-color: rgb(212, 199, 212);
+    background-image: url(image/icon/shelter.png);
+    background-repeat: no-repeat;
+    background-position-x: 10%;
+    background-position-y: 20%;
+}
+
+#first-div-color {
+    background-color: rgb(181, 204, 204);
+    background-image: url(image/icon/food.png);
+    background-repeat: no-repeat;
+    background-position-x: 10%;
+    background-position-y: 20%;
+}

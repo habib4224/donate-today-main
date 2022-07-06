@@ -140,27 +140,6 @@ body {
     background-position-y: 20%;
 }
 
-#footer-id {
-    margin: none;
-    padding-top: 20px;
-}
-
-#footer-div {
-    background-color: rgb(33, 27, 48);
-    padding: 50px;
-}
-
-#be-humble {
-    color: rgb(204, 65, 65);
-    text-align: center;
-    font-family: 'Pacifico', cursive;
-}
-
-#footer-p {
-    color: rgb(211, 200, 200);
-    text-align: center;
-}
-
 .Extra-mask-donation {
     display: flex;
     margin-top: 160px;
@@ -255,4 +234,25 @@ body {
     padding: 13px 40px;
     text-align: center;
     margin: -22px;
+}
+
+#footer-id {
+    margin: none;
+    padding-top: 20px;
+}
+
+#footer-div {
+    background-color: rgb(33, 27, 48);
+    padding: 50px;
+}
+
+#be-humble {
+    color: rgb(204, 65, 65);
+    text-align: center;
+    font-family: 'Pacifico', cursive;
+}
+
+#footer-p {
+    color: rgb(211, 200, 200);
+    text-align: center;
 }
